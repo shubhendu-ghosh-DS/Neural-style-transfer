@@ -3,7 +3,7 @@ Neural Style Transfer is a technique that allows us to generate an image with th
 The content image describes the layout or the sketch and Style being the painting or the colors. It is an application of Computer Vision related to image processing techniques and Deep Convolutional Neural Networks.  
   
  ## Requirements
- - tensorflow
+ - [tensorflow](https://www.tensorflow.org/)
  - numpy
  - matplotlib
  - [VGG19](https://keras.io/api/applications/vgg/)  
